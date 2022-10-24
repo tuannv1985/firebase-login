@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643429130730",
+    "project_id": "login-tuan",
+    "storage_bucket": "login-tuan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643429130730:android:3e8d3392b45ee416745293",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_tuan2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643429130730-62vlbbel4tvt71r86q4997ce4calu1qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_login_tuan2",
+            "certificate_hash": "0c81d9026709871a0afa44305836f7fe365ce51f"
+          }
+        },
+        {
+          "client_id": "643429130730-c3j0r1b5vnv27v559epgg3pnp2d78d7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBReZH52wxcsRuChBZ54Z2VCoyYe6nXBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643429130730-c3j0r1b5vnv27v559epgg3pnp2d78d7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
